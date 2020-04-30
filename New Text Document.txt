@@ -1,0 +1,9 @@
+1. git config --global user.name "Harishkr-dotcom"
+2. git config --global user.email "harishkr755@gmail.com"
+3. cd D:\Automation\RestAssure
+4. D:\Automation\RestAssure>git init
+5. D:\Automation\RestAssure>git add *
+6. D:\Automation\RestAssure>git status
+7. D:\Automation\RestAssure>git commit -m "First Commit"
+8. D:\Automation\RestAssure>git remote add origin https://github.com/Harishkr-dotcom/GitDemo.git
+9. D:\Automation\RestAssure>git push origin  master
